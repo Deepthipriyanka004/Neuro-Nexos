@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #F2E6F9; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .form-container {
+    background-color: #ffffff; 
+    padding: 40px;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 500px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Minimal box-shadow */
+    margin: 20px; /* Add margin to separate the form from the lavender background */
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 25px;
+    color: #7F03C2;
+  }
+  
+  label {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 8px;
+    font-weight: 500;
+    color: #222;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  textarea,
+  select {
+    width: 100%;
+    padding: 12px;
+    font-size: 15px;
+    border: 1px solid #7F03C2;
+    border-radius: 6px;
+    box-sizing: border-box;
+  }
+  
+  
+  textarea {
+    resize: vertical;
+  }
+  
+  .radio-group {
+    margin-top: 8px;
+  }
+  
+  .radio-group label {
+    display: block;
+    font-weight: normal;
+    margin-bottom: 6px;
+  }
+  
+  .submit-btn {
+    margin-top: 30px;
+    width: 20%;
+    font-weight: bold;
+    padding: 12px;
+    font-size: 16px;
+    background-color: #7f03c2cb;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .submit-btn:hover {
+    background-color: #7F03C2;
+  }
+  
