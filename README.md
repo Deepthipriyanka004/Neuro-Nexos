@@ -84,5 +84,5 @@ Fonts: Modify the font-family property for a different typographic style.
 
 Spacing: Adjust padding, margin, or form container width for your desired layout.
 
-License
+`## **License**`
 This project is licensed under the MIT License - see the LICENSE file for details.
