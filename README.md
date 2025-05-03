@@ -11,6 +11,7 @@ This project contains a simple yet elegant form styling built with CSS. It aims 
 
 ## Some Images:
 <img width="450px;" src="https://github.com/Deepthipriyanka004/Neuro-Nexos/blob/master/Screenshot%202025-05-03%20133956.png"/>
+<img width="450px;" src="https://github.com/Deepthipriyanka004/Neuro-Nexos/blob/master/Screenshot%202025-05-03%20134011.png"/>
 
 
 ## Files
@@ -88,5 +89,5 @@ Fonts: Modify the font-family property for a different typographic style.
 
 Spacing: Adjust padding, margin, or form container width for your desired layout.
 
-`## **License**`
+## 𝗟𝗶𝗰𝗲𝗻𝗰𝗲
 This project is licensed under the MIT License - see the LICENSE file for details.
