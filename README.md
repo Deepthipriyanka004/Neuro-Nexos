@@ -9,6 +9,10 @@ This project contains a simple yet elegant form styling built with CSS. It aims 
 - **Clean and Minimalist Design:** The form is styled with a minimalistic approach, ensuring ease of use and readability.
 - **Interactive Elements:** Hover effects on buttons and form inputs provide visual feedback to the user.
 
+## Some Images:
+<img width="450px;" src="https://github.com/Deepthipriyanka004/Neuro-Nexos/blob/master/Screenshot%202025-05-03%20133956.png"/>
+
+
 ## Files
 
 - **CSS:** The main styling file.
